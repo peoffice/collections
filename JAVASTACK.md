@@ -13,6 +13,15 @@
 * Velocity
 * JUnit
 * Log4j
+
+##### Library & Component
+* Guava
+* Guice
+* Error Prone
+* Truth
+* Kythe
+* Protobuf
+
 ##### Core
 ##### Multithread
 ##### Parallel
